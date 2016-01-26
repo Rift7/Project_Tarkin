@@ -10,4 +10,4 @@ You cannot blame me if you get caught for ddos'ing servers you don't own.
 This tool is released for educational purposes only, and comes with no warranty what so ever.
 
 # ProjectTarkin
-Ion Cannon
+(AKA "Project rekt")
